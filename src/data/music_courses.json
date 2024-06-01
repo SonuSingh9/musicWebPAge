@@ -1,0 +1,105 @@
+{
+
+    "courses":[
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basic of playing guitar with our comprensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "piano-for-beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your musical journey with foundational piano skills taught by expert instructors",
+            "price": 109.99,
+            "instructor": "Jane smith",
+            "isFeatured": false,
+            "image": "/course/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Advanced Vocal Techniques",
+            "slug": "advanced-vocal-techniques",
+            "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+            "price": 119.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image": "/courses/vocalist.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drumming Mastery",
+            "slug": "Drumming-Mastery",
+            "description": "Master the drums with our comprehensive course covering all skill levels.",
+            "price": 129.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image": "/courses/drumming.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Electronic Music Production",
+            "slug": "Electronic-Music-Production",
+            "description": "Create compelling electronnic music with our course designed for brginners to advanced users",
+            "price": 139.99,
+            "instructor": "Chris Davis",
+            "isFeatured": true,
+            "image": "/course/jazz.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Drumming Mastery",
+            "slug": "Drumming Mastery",
+            "description": "Master the drums with our comprehensive course covering all skill levels.",
+            "price": 149.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image": "/course/jazz.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Drumming Mastery",
+            "slug": "Drumming Mastery",
+            "description": "Master the drums with our comprehensive course covering all skill levels.",
+            "price": 179.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image": "/course/jazz.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Music Production Fundamentals",
+            "slug": "Music-Production-Fundamentals",
+            "description": "Divine into music production with this introductry course on the basics of sound engineering and mixing.",
+            "price": 189.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image": "/course/jazz.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Jazz Improvisation",
+            "slug": "jazz-improvisation",
+            "description": "Learn the art of jazz improvisation with this course designed for all levels",
+            "price": 199.99,
+            "instructor": "Chris Davis",
+            "isFeatured": false,
+            "image": "/course/jazz.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Blues Guitar Techniques",
+            "slug": "blues-guitar-techniques",
+            "description": "Discover the techniques of blues guitar to add soul and depth to your playing",
+            "price": 139.99,
+            "instructor": "Ethan Moore",
+            "isFeatured": true,
+            "image": "/course/blues.jpg"
+        }
+    ]
+}
